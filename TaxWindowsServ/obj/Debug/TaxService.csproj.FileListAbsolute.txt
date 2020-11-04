@@ -1,0 +1,12 @@
+C:\GitHubLocaltkoss\TaxJar\TaxService\bin\TaxService.dll.config
+C:\GitHubLocaltkoss\TaxJar\TaxService\bin\TaxService.dll
+C:\GitHubLocaltkoss\TaxJar\TaxService\bin\TaxService.pdb
+C:\GitHubLocaltkoss\TaxJar\TaxService\bin\Newtonsoft.Json.dll
+C:\GitHubLocaltkoss\TaxJar\TaxService\bin\RestSharp.dll
+C:\GitHubLocaltkoss\TaxJar\TaxService\bin\Newtonsoft.Json.xml
+C:\GitHubLocaltkoss\TaxJar\TaxService\bin\RestSharp.xml
+C:\GitHubLocaltkoss\TaxJar\TaxService\obj\Debug\TaxService.csprojAssemblyReference.cache
+C:\GitHubLocaltkoss\TaxJar\TaxService\obj\Debug\TaxService.csproj.CoreCompileInputs.cache
+C:\GitHubLocaltkoss\TaxJar\TaxService\obj\Debug\TaxService.csproj.CopyComplete
+C:\GitHubLocaltkoss\TaxJar\TaxService\obj\Debug\TaxService.dll
+C:\GitHubLocaltkoss\TaxJar\TaxService\obj\Debug\TaxService.pdb

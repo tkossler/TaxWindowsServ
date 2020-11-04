@@ -1,0 +1,14 @@
+C:\GitHubLocaltkoss\TaxJar\TaxService\UnitTestProject\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\GitHubLocaltkoss\TaxJar\TaxService\UnitTestProject\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\GitHubLocaltkoss\TaxJar\TaxService\UnitTestProject\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\GitHubLocaltkoss\TaxJar\TaxService\UnitTestProject\bin\Debug\netcoreapp2.1\UnitTestWCFCode.deps.json
+C:\GitHubLocaltkoss\TaxJar\TaxService\UnitTestProject\bin\Debug\netcoreapp2.1\UnitTestWCFCode.runtimeconfig.json
+C:\GitHubLocaltkoss\TaxJar\TaxService\UnitTestProject\bin\Debug\netcoreapp2.1\UnitTestWCFCode.runtimeconfig.dev.json
+C:\GitHubLocaltkoss\TaxJar\TaxService\UnitTestProject\bin\Debug\netcoreapp2.1\UnitTestWCFCode.dll
+C:\GitHubLocaltkoss\TaxJar\TaxService\UnitTestProject\bin\Debug\netcoreapp2.1\UnitTestWCFCode.pdb
+C:\GitHubLocaltkoss\TaxJar\TaxService\UnitTestProject\obj\Debug\netcoreapp2.1\UnitTestWCFCode.csproj.CoreCompileInputs.cache
+C:\GitHubLocaltkoss\TaxJar\TaxService\UnitTestProject\obj\Debug\netcoreapp2.1\UnitTestWCFCode.AssemblyInfoInputs.cache
+C:\GitHubLocaltkoss\TaxJar\TaxService\UnitTestProject\obj\Debug\netcoreapp2.1\UnitTestWCFCode.AssemblyInfo.cs
+C:\GitHubLocaltkoss\TaxJar\TaxService\UnitTestProject\obj\Debug\netcoreapp2.1\UnitTestWCFCode.dll
+C:\GitHubLocaltkoss\TaxJar\TaxService\UnitTestProject\obj\Debug\netcoreapp2.1\UnitTestWCFCode.pdb
+C:\GitHubLocaltkoss\TaxJar\TaxService\UnitTestProject\obj\Debug\netcoreapp2.1\UnitTestWCFCode.csprojAssemblyReference.cache
