@@ -72,6 +72,7 @@
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="TaxJarRequest.cs" />
     <Compile Include="TaxCalculator.svc.cs">
       <DependentUpon>TaxCalculator.svc</DependentUpon>
     </Compile>

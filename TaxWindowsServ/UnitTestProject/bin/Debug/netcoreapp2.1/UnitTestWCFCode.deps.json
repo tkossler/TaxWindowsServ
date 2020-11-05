@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.1",
-    "signature": "2da266f91515c26283d9ae6b958f4245550046e7"
+    "signature": "63f9c5e25fa150d5500fd8219445629e7893a823"
   },
   "compilationOptions": {},
   "targets": {
@@ -11,10 +11,12 @@
           "MSTest.TestAdapter": "1.3.2",
           "MSTest.TestFramework": "1.3.2",
           "Microsoft.NET.Test.Sdk": "15.9.0",
+          "RestSharp": "106.11.7",
           "System.ServiceModel.Duplex": "4.4.4",
           "System.ServiceModel.Http": "4.4.4",
           "System.ServiceModel.NetTcp": "4.4.4",
-          "System.ServiceModel.Security": "4.4.4"
+          "System.ServiceModel.Security": "4.4.4",
+          "TaxService": "1.0.0"
         },
         "runtime": {
           "UnitTestWCFCode.dll": {}
@@ -414,6 +416,14 @@
           "lib/netstandard1.0/Newtonsoft.Json.dll": {
             "assemblyVersion": "9.0.0.0",
             "fileVersion": "9.0.1.19813"
+          }
+        }
+      },
+      "RestSharp/106.11.7": {
+        "runtime": {
+          "lib/netstandard2.0/RestSharp.dll": {
+            "assemblyVersion": "106.11.7.0",
+            "fileVersion": "106.11.7.0"
           }
         }
       },
@@ -1129,6 +1139,11 @@
             "fileVersion": "1.0.24212.1"
           }
         }
+      },
+      "TaxService/1.0.0": {
+        "runtime": {
+          "TaxService.dll": {}
+        }
       }
     }
   },
@@ -1221,6 +1236,13 @@
       "sha512": "sha512-U82mHQSKaIk+lpSVCbWYKNavmNH1i5xrExDEquU1i6I5pV6UMOqRnJRSlKO3cMPfcpp0RgDY+8jUXHdQ4IfXvw==",
       "path": "newtonsoft.json/9.0.1",
       "hashPath": "newtonsoft.json.9.0.1.nupkg.sha512"
+    },
+    "RestSharp/106.11.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-NzndH096CTulvq+ihr7u1mBJ29oukdi9A8bypQJk+kaHxbRzTTrtgsEEQAb04ptTUZmQa7cgo7uF5z7NuEPX1Q==",
+      "path": "restsharp/106.11.7",
+      "hashPath": "restsharp.106.11.7.nupkg.sha512"
     },
     "runtime.native.System/4.3.0": {
       "type": "package",
@@ -1690,6 +1712,11 @@
       "sha512": "sha512-Zm2BdeanuncYs3NhCj4c9e1x3EXFzFBVv2wPEc/Dj4ZbI9R8ecLSR5frAsx4zJCPBtKQreQ7Q/KxJEohJZbfzA==",
       "path": "system.xml.xpath.xmldocument/4.0.1",
       "hashPath": "system.xml.xpath.xmldocument.4.0.1.nupkg.sha512"
+    },
+    "TaxService/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }

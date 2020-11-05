@@ -10,3 +10,15 @@ C:\GitHubLocaltkoss\TaxJar\TaxService\obj\Debug\TaxService.csproj.CoreCompileInp
 C:\GitHubLocaltkoss\TaxJar\TaxService\obj\Debug\TaxService.csproj.CopyComplete
 C:\GitHubLocaltkoss\TaxJar\TaxService\obj\Debug\TaxService.dll
 C:\GitHubLocaltkoss\TaxJar\TaxService\obj\Debug\TaxService.pdb
+C:\GitHubLocaltkoss\TaxWindowsServ\TaxWindowsServ\bin\TaxService.dll.config
+C:\GitHubLocaltkoss\TaxWindowsServ\TaxWindowsServ\bin\TaxService.dll
+C:\GitHubLocaltkoss\TaxWindowsServ\TaxWindowsServ\bin\TaxService.pdb
+C:\GitHubLocaltkoss\TaxWindowsServ\TaxWindowsServ\bin\Newtonsoft.Json.dll
+C:\GitHubLocaltkoss\TaxWindowsServ\TaxWindowsServ\bin\RestSharp.dll
+C:\GitHubLocaltkoss\TaxWindowsServ\TaxWindowsServ\bin\Newtonsoft.Json.xml
+C:\GitHubLocaltkoss\TaxWindowsServ\TaxWindowsServ\bin\RestSharp.xml
+C:\GitHubLocaltkoss\TaxWindowsServ\TaxWindowsServ\obj\Debug\TaxService.csprojAssemblyReference.cache
+C:\GitHubLocaltkoss\TaxWindowsServ\TaxWindowsServ\obj\Debug\TaxService.csproj.CoreCompileInputs.cache
+C:\GitHubLocaltkoss\TaxWindowsServ\TaxWindowsServ\obj\Debug\TaxService.csproj.CopyComplete
+C:\GitHubLocaltkoss\TaxWindowsServ\TaxWindowsServ\obj\Debug\TaxService.dll
+C:\GitHubLocaltkoss\TaxWindowsServ\TaxWindowsServ\obj\Debug\TaxService.pdb
