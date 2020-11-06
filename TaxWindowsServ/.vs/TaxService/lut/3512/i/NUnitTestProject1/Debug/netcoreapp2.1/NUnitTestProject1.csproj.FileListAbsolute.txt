@@ -1,0 +1,13 @@
+C:\GitHubLocaltkoss\TaxJar\TaxService\.vs\TaxService\lut\0\b\NUnitTestProject1\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\GitHubLocaltkoss\TaxJar\TaxService\.vs\TaxService\lut\0\b\NUnitTestProject1\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\GitHubLocaltkoss\TaxJar\TaxService\.vs\TaxService\lut\0\b\NUnitTestProject1\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\GitHubLocaltkoss\TaxJar\TaxService\.vs\TaxService\lut\0\b\NUnitTestProject1\Debug\netcoreapp2.1\Mono.Cecil.dll
+C:\GitHubLocaltkoss\TaxJar\TaxService\.vs\TaxService\lut\0\b\NUnitTestProject1\Debug\netcoreapp2.1\NUnitTestProject1.deps.json
+C:\GitHubLocaltkoss\TaxJar\TaxService\.vs\TaxService\lut\0\b\NUnitTestProject1\Debug\netcoreapp2.1\NUnitTestProject1.runtimeconfig.json
+C:\GitHubLocaltkoss\TaxJar\TaxService\.vs\TaxService\lut\0\b\NUnitTestProject1\Debug\netcoreapp2.1\NUnitTestProject1.runtimeconfig.dev.json
+C:\GitHubLocaltkoss\TaxJar\TaxService\.vs\TaxService\lut\0\b\NUnitTestProject1\Debug\netcoreapp2.1\NUnitTestProject1.dll
+C:\GitHubLocaltkoss\TaxJar\TaxService\.vs\TaxService\lut\0\i\NUnitTestProject1\Debug\netcoreapp2.1\NUnitTestProject1.csproj.CoreCompileInputs.cache
+C:\GitHubLocaltkoss\TaxJar\TaxService\.vs\TaxService\lut\0\i\NUnitTestProject1\Debug\netcoreapp2.1\NUnitTestProject1.AssemblyInfoInputs.cache
+C:\GitHubLocaltkoss\TaxJar\TaxService\.vs\TaxService\lut\0\i\NUnitTestProject1\Debug\netcoreapp2.1\NUnitTestProject1.AssemblyInfo.cs
+C:\GitHubLocaltkoss\TaxJar\TaxService\.vs\TaxService\lut\0\i\NUnitTestProject1\Debug\netcoreapp2.1\NUnitTestProject1.csproj.CopyComplete
+C:\GitHubLocaltkoss\TaxJar\TaxService\.vs\TaxService\lut\0\i\NUnitTestProject1\Debug\netcoreapp2.1\NUnitTestProject1.dll

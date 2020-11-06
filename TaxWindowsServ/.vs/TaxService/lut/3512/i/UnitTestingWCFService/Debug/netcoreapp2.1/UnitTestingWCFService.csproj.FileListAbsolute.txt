@@ -1,0 +1,3 @@
+C:\GitHubLocaltkoss\TaxWindowsServ\TaxWindowsServ\.vs\TaxService\lut\0\i\UnitTestingWCFService\Debug\netcoreapp2.1\UnitTestingWCFService.csproj.CoreCompileInputs.cache
+C:\GitHubLocaltkoss\TaxWindowsServ\TaxWindowsServ\.vs\TaxService\lut\0\i\UnitTestingWCFService\Debug\netcoreapp2.1\UnitTestingWCFService.AssemblyInfoInputs.cache
+C:\GitHubLocaltkoss\TaxWindowsServ\TaxWindowsServ\.vs\TaxService\lut\0\i\UnitTestingWCFService\Debug\netcoreapp2.1\UnitTestingWCFService.AssemblyInfo.cs

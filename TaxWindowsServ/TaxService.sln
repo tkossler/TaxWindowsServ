@@ -5,19 +5,19 @@ VisualStudioVersion = 15.0.28307.1209
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaxService", "TaxService.csproj", "{B73964E5-8098-42B9-910B-4FD060298F33}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnitTestingWCFService", "UnitTestProject\UnitTestingWCFService.csproj", "{7C76FD48-0BE4-4BA7-B1B7-4FCA8E08DF4D}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Diagram", "Diagram", "{9BD3A541-C68C-4625-9D77-05A3667B53A6}"
 	ProjectSection(SolutionItems) = preProject
 		TaxCalculatorWCFDiagram.dgml = TaxCalculatorWCFDiagram.dgml
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestTaxJarDirectCall", "..\UnitTest2\UnitTestTaxJarDirectCall.csproj", "{722978F5-D1C7-413B-9CCC-39CD1E9D2312}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{35B1CC79-581F-464F-BB3B-C65020381519}"
 	ProjectSection(SolutionItems) = preProject
 		..\README.md = ..\README.md
 	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnitTestingWCFService", "UnitTestingWCFService\UnitTestingWCFService.csproj", "{37B00A5F-F688-42F5-8703-C1A0A9E1AB94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestTaxJarService", "UnitTestTaxJarService\UnitTestTaxJarService.csproj", "{759419DF-EB24-4E3F-81D7-ECA0A18DFE1E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,14 +29,14 @@ Global
 		{B73964E5-8098-42B9-910B-4FD060298F33}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B73964E5-8098-42B9-910B-4FD060298F33}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B73964E5-8098-42B9-910B-4FD060298F33}.Release|Any CPU.Build.0 = Release|Any CPU
-		{7C76FD48-0BE4-4BA7-B1B7-4FCA8E08DF4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7C76FD48-0BE4-4BA7-B1B7-4FCA8E08DF4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7C76FD48-0BE4-4BA7-B1B7-4FCA8E08DF4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7C76FD48-0BE4-4BA7-B1B7-4FCA8E08DF4D}.Release|Any CPU.Build.0 = Release|Any CPU
-		{722978F5-D1C7-413B-9CCC-39CD1E9D2312}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{722978F5-D1C7-413B-9CCC-39CD1E9D2312}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{722978F5-D1C7-413B-9CCC-39CD1E9D2312}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{722978F5-D1C7-413B-9CCC-39CD1E9D2312}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37B00A5F-F688-42F5-8703-C1A0A9E1AB94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37B00A5F-F688-42F5-8703-C1A0A9E1AB94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37B00A5F-F688-42F5-8703-C1A0A9E1AB94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37B00A5F-F688-42F5-8703-C1A0A9E1AB94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{759419DF-EB24-4E3F-81D7-ECA0A18DFE1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{759419DF-EB24-4E3F-81D7-ECA0A18DFE1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{759419DF-EB24-4E3F-81D7-ECA0A18DFE1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{759419DF-EB24-4E3F-81D7-ECA0A18DFE1E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
