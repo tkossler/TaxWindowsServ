@@ -6360,9 +6360,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\GitHubLocaltkoss\\TaxWindowsServ\\TaxWindowsServ\\UnitTestProject\\UnitTestWCFCode.csproj",
-      "projectName": "UnitTestWCFCode",
-      "projectPath": "C:\\GitHubLocaltkoss\\TaxWindowsServ\\TaxWindowsServ\\UnitTestProject\\UnitTestWCFCode.csproj",
+      "projectUniqueName": "C:\\GitHubLocaltkoss\\TaxWindowsServ\\TaxWindowsServ\\UnitTestProject\\UnitTesting.csproj",
+      "projectName": "UnitTesting",
+      "projectPath": "C:\\GitHubLocaltkoss\\TaxWindowsServ\\TaxWindowsServ\\UnitTestProject\\UnitTesting.csproj",
       "packagesPath": "C:\\Users\\tkoss\\.nuget\\packages\\",
       "outputPath": "C:\\GitHubLocaltkoss\\TaxWindowsServ\\TaxWindowsServ\\UnitTestProject\\obj\\",
       "projectStyle": "PackageReference",

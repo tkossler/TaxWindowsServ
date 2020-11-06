@@ -5,7 +5,12 @@ VisualStudioVersion = 15.0.28307.1209
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaxService", "TaxService.csproj", "{B73964E5-8098-42B9-910B-4FD060298F33}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnitTestWCFCode", "UnitTestProject\UnitTestWCFCode.csproj", "{7C76FD48-0BE4-4BA7-B1B7-4FCA8E08DF4D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnitTesting", "UnitTestProject\UnitTesting.csproj", "{7C76FD48-0BE4-4BA7-B1B7-4FCA8E08DF4D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Diagram", "Diagram", "{9BD3A541-C68C-4625-9D77-05A3667B53A6}"
+	ProjectSection(SolutionItems) = preProject
+		TaxCalculatorWCFDiagram.dgml = TaxCalculatorWCFDiagram.dgml
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
