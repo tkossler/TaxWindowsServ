@@ -1,8 +1,0 @@
-C:\GitHubLocaltkoss\TaxWindowsServ\TaxWindowsServ\.vs\TaxService\lut\0\b\UnitTest2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
-C:\GitHubLocaltkoss\TaxWindowsServ\TaxWindowsServ\.vs\TaxService\lut\0\b\UnitTest2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
-C:\GitHubLocaltkoss\TaxWindowsServ\TaxWindowsServ\.vs\TaxService\lut\0\b\UnitTest2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
-C:\GitHubLocaltkoss\TaxWindowsServ\TaxWindowsServ\.vs\TaxService\lut\0\b\UnitTest2\bin\Debug\UnitTest2.dll
-C:\GitHubLocaltkoss\TaxWindowsServ\TaxWindowsServ\.vs\TaxService\lut\0\i\UnitTestTaxJarDirectCall\Debug\UnitTestTaxJarDirectCall.csprojAssemblyReference.cache
-C:\GitHubLocaltkoss\TaxWindowsServ\TaxWindowsServ\.vs\TaxService\lut\0\i\UnitTestTaxJarDirectCall\Debug\UnitTestTaxJarDirectCall.csproj.CoreCompileInputs.cache
-C:\GitHubLocaltkoss\TaxWindowsServ\TaxWindowsServ\.vs\TaxService\lut\0\i\UnitTestTaxJarDirectCall\Debug\UnitTestTaxJarDirectCall.csproj.CopyComplete
-C:\GitHubLocaltkoss\TaxWindowsServ\TaxWindowsServ\.vs\TaxService\lut\0\i\UnitTestTaxJarDirectCall\Debug\UnitTest2.dll
